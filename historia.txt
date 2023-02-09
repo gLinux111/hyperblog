@@ -10,3 +10,5 @@ obra masestra: Raaffaella
 Estudoa en PLatzi
 
 !!!!!
+
+lo intento desde glinux para otro usuario
