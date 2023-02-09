@@ -11,5 +11,8 @@ Estudoa en PLatzi
 
 !!!!!
 
-Soy gLinux y empiezo el proyecto
+Soy gLinux y empiezo el proyecto como nuevo programador
+
+!!!!!!!!!!!!!!!!!!!!!
+###################
 
