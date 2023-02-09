@@ -10,3 +10,6 @@ obra masestra: Raaffaella
 Estudoa en PLatzi
 
 !!!!!
+
+Soy gLinux y empiezo el proyecto
+
